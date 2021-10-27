@@ -1,0 +1,9 @@
+{
+  "name": "program-accounts-benchmark-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.30.2"
+  }
+}

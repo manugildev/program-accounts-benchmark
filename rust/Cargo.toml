@@ -1,0 +1,12 @@
+[package]
+name = "program-accounts-benchmark-rust"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+solana-sdk = "1.8.1"
+solana-client = "1.8.1"
+solana-program = "1.8.1"
+solana-account-decoder = "1.8.1"
